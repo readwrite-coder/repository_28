@@ -1,7 +1,7 @@
 # repository_28
 Simple Flask app; full-stack web application
 
-  - To create a local environment to host the web application, follow these instructions:
+  - To run the web app, follow these instructions:
 
     1) create a new folder in your local environment, "my-project"
     2) change directory; you should be in an empty folder, now create the virtual environment with:
